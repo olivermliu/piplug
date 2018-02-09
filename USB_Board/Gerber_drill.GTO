@@ -1,0 +1,23 @@
+G04 ---------------------------- Layer name :TOP SILK LAYER*
+G04 easyEDA 0.1*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in inches *
+G04 leading zeros omitted , absolute positions ,2 integer and 4 * 
+%FSLAX24Y24*%
+%MOIN*%
+G90*
+G70D02*
+
+%ADD11C,0.008000*%
+
+%LPD*%
+G54D11*
+G01X4441Y4010D02*
+G01X4441Y3560D01*
+G01X4216Y3785D02*
+G01X4667Y3785D01*
+G01X7211Y3769D02*
+G01X7662Y3769D01*
+
+M00*
+M02*
